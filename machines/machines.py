@@ -1,8 +1,16 @@
+from typing import List, Union
+
 class Machine:
-    def __init__(self, name: str, input_resource: str, output_resource: str) -> None :
+    def __init__(self, name: str, input_resources: Union[str, List[str]], output_resource: str) -> None:
         self.name = name
-        self.input_resource = input_resource
+
+        if isinstance(input_resources, str):
+            self.input_resources = [input_resources]
+        else:
+            self.input_resources = input_resources
+
         self.output_resource = output_resource
 
     def display_info(self):
-        print(f"{self.name} product {self.output_resource} from {self.input_resource}")
+        inputs = ", ".join(self.input_resources)
+        print(f"{self.name} produces {self.output_resource} from {inputs}")
