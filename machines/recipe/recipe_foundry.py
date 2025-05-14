@@ -3,252 +3,126 @@ RECIPES = {
         "inputs": [
             [
                 "Aluminum Scrap",
-                6.0
-            ],
-            [
-                "Silica",
-                5.0
+                90.0
             ]
         ],
-        "outputs": [
-            [
-                "Aluminum Ingot",
-                4.0
-            ]
-        ]
+        "outputs": []
     },
     "Steel Ingot": {
         "inputs": [
             [
                 "Iron Ore",
-                3.0
-            ],
-            [
-                "Coal",
-                3.0
+                45.0
             ]
         ],
-        "outputs": [
-            [
-                "Steel Ingot",
-                3.0
-            ]
-        ]
+        "outputs": []
     },
     "Basic Iron Ingotalternate": {
         "inputs": [
             [
                 "Iron Ore",
-                5.0
-            ],
-            [
-                "Limestone",
-                8.0
+                25.0
             ]
         ],
-        "outputs": [
-            [
-                "Iron Ingot",
-                10.0
-            ]
-        ]
+        "outputs": []
     },
     "Coke Steel Ingotalternate": {
         "inputs": [
             [
                 "Iron Ore",
-                15.0
-            ],
-            [
-                "Petroleum Coke",
-                15.0
+                75.0
             ]
         ],
-        "outputs": [
-            [
-                "Steel Ingot",
-                20.0
-            ]
-        ]
+        "outputs": []
     },
     "Compacted Steel Ingotalternate": {
         "inputs": [
             [
                 "Iron Ore",
-                2.0
-            ],
-            [
-                "Compacted Coal",
-                1.0
+                5.0
             ]
         ],
-        "outputs": [
-            [
-                "Steel Ingot",
-                4.0
-            ]
-        ]
+        "outputs": []
     },
     "Copper Alloy Ingotalternate": {
         "inputs": [
             [
                 "Copper Ore",
-                5.0
-            ],
-            [
-                "Iron Ore",
-                5.0
+                50.0
             ]
         ],
-        "outputs": [
-            [
-                "Copper Ingot",
-                10.0
-            ]
-        ]
+        "outputs": []
     },
     "Fused Quartz Crystalalternate": {
         "inputs": [
             [
                 "Raw Quartz",
-                25.0
-            ],
-            [
-                "Coal",
-                12.0
+                75.0
             ]
         ],
-        "outputs": [
-            [
-                "Quartz Crystal",
-                18.0
-            ]
-        ]
+        "outputs": []
     },
     "Iron Alloy Ingotalternate": {
         "inputs": [
             [
                 "Iron Ore",
-                8.0
-            ],
-            [
-                "Copper Ore",
-                2.0
+                40.0
             ]
         ],
-        "outputs": [
-            [
-                "Iron Ingot",
-                15.0
-            ]
-        ]
+        "outputs": []
     },
     "Molded Beamalternate": {
         "inputs": [
             [
                 "Steel Ingot",
-                24.0
-            ],
-            [
-                "Concrete",
-                16.0
+                120.0
             ]
         ],
-        "outputs": [
-            [
-                "Steel Beam",
-                9.0
-            ]
-        ]
+        "outputs": []
     },
     "Molded Steel Pipealternate": {
         "inputs": [
             [
                 "Steel Ingot",
-                5.0
-            ],
-            [
-                "Concrete",
-                3.0
+                50.0
             ]
         ],
-        "outputs": [
-            [
-                "Steel Pipe",
-                5.0
-            ]
-        ]
+        "outputs": []
     },
     "Solid Steel Ingotalternate": {
         "inputs": [
             [
                 "Iron Ingot",
-                2.0
-            ],
-            [
-                "Coal",
-                2.0
+                40.0
             ]
         ],
-        "outputs": [
-            [
-                "Steel Ingot",
-                3.0
-            ]
-        ]
+        "outputs": []
     },
     "Steel Cast Platealternate": {
         "inputs": [
             [
                 "Iron Ingot",
-                1.0
-            ],
-            [
-                "Steel Ingot",
-                1.0
+                15.0
             ]
         ],
-        "outputs": [
-            [
-                "Iron Plate",
-                3.0
-            ]
-        ]
+        "outputs": []
     },
     "Tempered Caterium Ingotalternate": {
         "inputs": [
             [
                 "Caterium Ore",
-                6.0
-            ],
-            [
-                "Petroleum Coke",
-                2.0
+                45.0
             ]
         ],
-        "outputs": [
-            [
-                "Caterium Ingot",
-                3.0
-            ]
-        ]
+        "outputs": []
     },
     "Tempered Copper Ingotalternate": {
         "inputs": [
             [
                 "Copper Ore",
-                5.0
-            ],
-            [
-                "Petroleum Coke",
-                8.0
+                25.0
             ]
         ],
-        "outputs": [
-            [
-                "Copper Ingot",
-                12.0
-            ]
-        ]
+        "outputs": []
     }
 }

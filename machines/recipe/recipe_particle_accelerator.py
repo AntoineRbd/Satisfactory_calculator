@@ -3,204 +3,92 @@ RECIPES = {
         "inputs": [
             [
                 "Diamonds",
-                1.0
-            ],
-            [
-                "Dark Matter Residue",
-                5.0
+                30.0
             ]
         ],
-        "outputs": [
-            [
-                "Dark Matter Crystal",
-                1.0
-            ]
-        ]
+        "outputs": []
     },
     "Diamonds": {
-        "inputs": [
-            [
-                "Coal",
-                20.0
-            ]
-        ],
-        "outputs": [
-            [
-                "Diamonds",
-                1.0
-            ]
-        ]
+        "inputs": [],
+        "outputs": []
     },
     "Ficsonium": {
         "inputs": [
             [
                 "Plutonium Waste",
-                1.0
+                10.0
             ],
             [
                 "Singularity Cell",
-                1.0
-            ],
-            [
-                "Dark Matter Residue",
-                20.0
+                10.0
             ]
         ],
-        "outputs": [
-            [
-                "Ficsonium",
-                1.0
-            ]
-        ]
+        "outputs": []
     },
     "Nuclear Pasta": {
         "inputs": [
             [
                 "Copper Powder",
-                200.0
-            ],
-            [
-                "Pressure Conversion Cube",
-                1.0
+                100.0
             ]
         ],
-        "outputs": [
-            [
-                "Nuclear Pasta",
-                1.0
-            ]
-        ]
+        "outputs": []
     },
     "Plutonium Pellet": {
         "inputs": [
             [
                 "Non-Fissile Uranium",
                 100.0
-            ],
-            [
-                "Uranium Waste",
-                25.0
             ]
         ],
-        "outputs": [
-            [
-                "Plutonium Pellet",
-                30.0
-            ]
-        ]
+        "outputs": []
     },
     "Cloudy Diamondsalternate": {
         "inputs": [
             [
                 "Coal",
-                12.0
-            ],
-            [
-                "Limestone",
-                24.0
+                240.0
             ]
         ],
-        "outputs": [
-            [
-                "Diamonds",
-                1.0
-            ]
-        ]
+        "outputs": []
     },
     "Dark Matter Crystallizationalternate": {
-        "inputs": [
-            [
-                "Dark Matter Residue",
-                10.0
-            ]
-        ],
-        "outputs": [
-            [
-                "Dark Matter Crystal",
-                1.0
-            ]
-        ]
+        "inputs": [],
+        "outputs": []
     },
     "Dark Matter Trapalternate": {
         "inputs": [
             [
                 "Time Crystal",
-                1.0
-            ],
-            [
-                "Dark Matter Residue",
-                5.0
+                30.0
             ]
         ],
-        "outputs": [
-            [
-                "Dark Matter Crystal",
-                2.0
-            ]
-        ]
+        "outputs": []
     },
     "Instant Plutonium Cellalternate": {
         "inputs": [
             [
                 "Non-Fissile Uranium",
-                150.0
-            ],
-            [
-                "Aluminum Casing",
-                20.0
+                75.0
             ]
         ],
-        "outputs": [
-            [
-                "Encased Plutonium Cell",
-                20.0
-            ]
-        ]
+        "outputs": []
     },
     "Oil-Based Diamondsalternate": {
-        "inputs": [
-            [
-                "Crude Oil",
-                10.0
-            ]
-        ],
-        "outputs": [
-            [
-                "Diamonds",
-                2.0
-            ]
-        ]
+        "inputs": [],
+        "outputs": []
     },
     "Petroleum Diamondsalternate": {
-        "inputs": [
-            [
-                "Petroleum Coke",
-                24.0
-            ]
-        ],
-        "outputs": [
-            [
-                "Diamonds",
-                1.0
-            ]
-        ]
+        "inputs": [],
+        "outputs": []
     },
     "Turbo Diamondsalternate": {
         "inputs": [
             [
                 "Coal",
-                30.0
-            ],
-            [
-                "Packaged Turbofuel",
-                2.0
+                600.0
             ]
         ],
-        "outputs": [
-            [
-                "Diamonds",
-                3.0
-            ]
-        ]
+        "outputs": []
     }
 }

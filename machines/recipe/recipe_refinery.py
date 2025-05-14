@@ -3,642 +3,280 @@ RECIPES = {
         "inputs": [
             [
                 "Bauxite",
-                12.0
-            ],
-            [
-                "Water",
-                18.0
+                120.0
             ]
         ],
-        "outputs": [
-            [
-                "Alumina Solution",
-                12.0
-            ],
-            [
-                "Silica",
-                5.0
-            ]
-        ]
+        "outputs": []
     },
     "Aluminum Scrap": {
         "inputs": [
             [
                 "Alumina Solution",
-                4.0
-            ],
-            [
-                "Coal",
-                2.0
+                240.0
             ]
         ],
-        "outputs": [
-            [
-                "Aluminum Scrap",
-                6.0
-            ],
-            [
-                "Water",
-                2.0
-            ]
-        ]
+        "outputs": []
     },
     "Fuel": {
-        "inputs": [
-            [
-                "Crude Oil",
-                6.0
-            ]
-        ],
-        "outputs": [
-            [
-                "Fuel",
-                4.0
-            ],
-            [
-                "Polymer Resin",
-                3.0
-            ]
-        ]
+        "inputs": [],
+        "outputs": []
     },
     "Ionized Fuel": {
         "inputs": [
             [
                 "Rocket Fuel",
-                16.0
-            ],
-            [
-                "Power Shard",
-                1.0
+                40.0
             ]
         ],
-        "outputs": [
-            [
-                "Ionized Fuel",
-                16.0
-            ],
-            [
-                "Compacted Coal",
-                2.0
-            ]
-        ]
+        "outputs": []
     },
     "Liquid Biofuel": {
         "inputs": [
             [
                 "Solid Biofuel",
-                6.0
-            ],
-            [
-                "Water",
-                3.0
+                90.0
             ]
         ],
-        "outputs": [
-            [
-                "Liquid Biofuel",
-                4.0
-            ]
-        ]
+        "outputs": []
     },
     "Petroleum Coke": {
-        "inputs": [
-            [
-                "Heavy Oil Residue",
-                4.0
-            ]
-        ],
-        "outputs": [
-            [
-                "Petroleum Coke",
-                12.0
-            ]
-        ]
+        "inputs": [],
+        "outputs": []
     },
     "Plastic": {
-        "inputs": [
-            [
-                "Crude Oil",
-                3.0
-            ]
-        ],
-        "outputs": [
-            [
-                "Plastic",
-                2.0
-            ],
-            [
-                "Heavy Oil Residue",
-                1.0
-            ]
-        ]
+        "inputs": [],
+        "outputs": []
     },
     "Residual Fuel": {
-        "inputs": [
-            [
-                "Heavy Oil Residue",
-                6.0
-            ]
-        ],
-        "outputs": [
-            [
-                "Fuel",
-                4.0
-            ]
-        ]
+        "inputs": [],
+        "outputs": []
     },
     "Residual Plastic": {
         "inputs": [
             [
                 "Polymer Resin",
-                6.0
-            ],
-            [
-                "Water",
-                2.0
+                60.0
             ]
         ],
-        "outputs": [
-            [
-                "Plastic",
-                2.0
-            ]
-        ]
+        "outputs": []
     },
     "Residual Rubber": {
         "inputs": [
             [
                 "Polymer Resin",
-                4.0
-            ],
-            [
-                "Water",
-                4.0
+                40.0
             ]
         ],
-        "outputs": [
-            [
-                "Rubber",
-                2.0
-            ]
-        ]
+        "outputs": []
     },
     "Rubber": {
-        "inputs": [
-            [
-                "Crude Oil",
-                3.0
-            ]
-        ],
-        "outputs": [
-            [
-                "Rubber",
-                2.0
-            ],
-            [
-                "Heavy Oil Residue",
-                2.0
-            ]
-        ]
+        "inputs": [],
+        "outputs": []
     },
     "Smokeless Powder": {
         "inputs": [
             [
                 "Black Powder",
-                2.0
-            ],
-            [
-                "Heavy Oil Residue",
-                1.0
+                20.0
             ]
         ],
-        "outputs": [
-            [
-                "Smokeless Powder",
-                2.0
-            ]
-        ]
+        "outputs": []
     },
     "Sulfuric Acid": {
         "inputs": [
             [
                 "Sulfur",
-                5.0
-            ],
-            [
-                "Water",
-                5.0
+                50.0
             ]
         ],
-        "outputs": [
-            [
-                "Sulfuric Acid",
-                5.0
-            ]
-        ]
+        "outputs": []
     },
     "Coated Cablealternate": {
         "inputs": [
             [
                 "Wire",
-                5.0
-            ],
-            [
-                "Heavy Oil Residue",
-                2.0
+                37.5
             ]
         ],
-        "outputs": [
-            [
-                "Cable",
-                9.0
-            ]
-        ]
+        "outputs": []
     },
     "Diluted Packaged Fuelalternate": {
         "inputs": [
             [
                 "Heavy Oil Residue",
-                1.0
-            ],
-            [
-                "Packaged Water",
-                2.0
+                30.0
             ]
         ],
-        "outputs": [
-            [
-                "Packaged Fuel",
-                2.0
-            ]
-        ]
+        "outputs": []
     },
     "Electrode Aluminum Scrapalternate": {
         "inputs": [
             [
                 "Alumina Solution",
-                12.0
-            ],
-            [
-                "Petroleum Coke",
-                4.0
+                180.0
             ]
         ],
-        "outputs": [
-            [
-                "Aluminum Scrap",
-                20.0
-            ],
-            [
-                "Water",
-                7.0
-            ]
-        ]
+        "outputs": []
     },
     "Heavy Oil Residuealternate": {
-        "inputs": [
-            [
-                "Crude Oil",
-                3.0
-            ]
-        ],
-        "outputs": [
-            [
-                "Heavy Oil Residue",
-                4.0
-            ],
-            [
-                "Polymer Resin",
-                2.0
-            ]
-        ]
+        "inputs": [],
+        "outputs": []
     },
     "Leached Caterium Ingotalternate": {
         "inputs": [
             [
                 "Caterium Ore",
-                9.0
-            ],
-            [
-                "Sulfuric Acid",
-                5.0
+                54.0
             ]
         ],
-        "outputs": [
-            [
-                "Caterium Ingot",
-                6.0
-            ]
-        ]
+        "outputs": []
     },
     "Leached Copper Ingotalternate": {
         "inputs": [
             [
                 "Copper Ore",
-                9.0
-            ],
-            [
-                "Sulfuric Acid",
-                5.0
+                45.0
             ]
         ],
-        "outputs": [
-            [
-                "Copper Ingot",
-                22.0
-            ]
-        ]
+        "outputs": []
     },
     "Leached Iron Ingotexperimentalalternate": {
         "inputs": [
             [
                 "Iron Ore",
-                5.0
-            ],
-            [
-                "Sulfuric Acid",
-                1.0
+                50.0
             ]
         ],
-        "outputs": [
-            [
-                "Iron Ingot",
-                10.0
-            ]
-        ]
+        "outputs": []
     },
     "Leached Iron Ingotstablealternate": {
         "inputs": [
             [
                 "Iron Ore",
-                5.0
-            ],
-            [
-                "Sulfuric Acid",
-                1.0
+                50.0
             ]
         ],
-        "outputs": [
-            [
-                "Iron Ingot",
-                10.0
-            ]
-        ]
+        "outputs": []
     },
     "Polyester Fabricalternate": {
         "inputs": [
             [
                 "Polymer Resin",
-                1.0
-            ],
-            [
-                "Water",
-                1.0
+                30.0
             ]
         ],
-        "outputs": [
-            [
-                "Fabric",
-                1.0
-            ]
-        ]
+        "outputs": []
     },
     "Polymer Resinalternate": {
-        "inputs": [
-            [
-                "Crude Oil",
-                6.0
-            ]
-        ],
-        "outputs": [
-            [
-                "Polymer Resin",
-                13.0
-            ],
-            [
-                "Heavy Oil Residue",
-                2.0
-            ]
-        ]
+        "inputs": [],
+        "outputs": []
     },
     "Pure Caterium Ingotalternate": {
         "inputs": [
             [
                 "Caterium Ore",
-                2.0
-            ],
-            [
-                "Water",
-                2.0
+                24.0
             ]
         ],
-        "outputs": [
-            [
-                "Caterium Ingot",
-                1.0
-            ]
-        ]
+        "outputs": []
     },
     "Pure Copper Ingotalternate": {
         "inputs": [
             [
                 "Copper Ore",
-                6.0
-            ],
-            [
-                "Water",
-                4.0
-            ]
-        ],
-        "outputs": [
-            [
-                "Copper Ingot",
                 15.0
             ]
-        ]
+        ],
+        "outputs": []
     },
     "Pure Iron Ingotalternate": {
         "inputs": [
             [
                 "Iron Ore",
-                7.0
-            ],
-            [
-                "Water",
-                4.0
+                35.0
             ]
         ],
-        "outputs": [
-            [
-                "Iron Ingot",
-                13.0
-            ]
-        ]
+        "outputs": []
     },
     "Pure Quartz Crystalalternate": {
         "inputs": [
             [
                 "Raw Quartz",
-                9.0
-            ],
-            [
-                "Water",
-                5.0
+                67.5
             ]
         ],
-        "outputs": [
-            [
-                "Quartz Crystal",
-                7.0
-            ]
-        ]
+        "outputs": []
     },
     "Quartz Purificationalternate": {
         "inputs": [
             [
                 "Raw Quartz",
-                24.0
-            ],
-            [
-                "Nitric Acid",
-                2.0
+                120.0
             ]
         ],
-        "outputs": [
-            [
-                "Quartz Crystal",
-                15.0
-            ],
-            [
-                "Dissolved Silica",
-                12.0
-            ]
-        ]
+        "outputs": []
     },
     "Recycled Plasticalternate": {
         "inputs": [
             [
                 "Rubber",
-                6.0
-            ],
-            [
-                "Fuel",
-                6.0
+                30.0
             ]
         ],
-        "outputs": [
-            [
-                "Plastic",
-                12.0
-            ]
-        ]
+        "outputs": []
     },
     "Recycled Rubberalternate": {
         "inputs": [
             [
                 "Plastic",
-                6.0
-            ],
-            [
-                "Fuel",
-                6.0
+                30.0
             ]
         ],
-        "outputs": [
-            [
-                "Rubber",
-                12.0
-            ]
-        ]
+        "outputs": []
     },
     "Sloppy Aluminaalternate": {
         "inputs": [
             [
                 "Bauxite",
-                10.0
-            ],
-            [
-                "Water",
-                10.0
+                200.0
             ]
         ],
-        "outputs": [
-            [
-                "Alumina Solution",
-                12.0
-            ]
-        ]
+        "outputs": []
     },
     "Steamed Copper Sheetalternate": {
         "inputs": [
             [
                 "Copper Ingot",
-                3.0
-            ],
-            [
-                "Water",
-                3.0
+                22.5
             ]
         ],
-        "outputs": [
-            [
-                "Copper Sheet",
-                3.0
-            ]
-        ]
+        "outputs": []
     },
     "Turbo Heavy Fuelalternate": {
         "inputs": [
             [
                 "Heavy Oil Residue",
-                5.0
-            ],
-            [
-                "Compacted Coal",
-                4.0
+                37.5
             ]
         ],
-        "outputs": [
-            [
-                "Turbofuel",
-                4.0
-            ]
-        ]
+        "outputs": []
     },
     "Turbofuelalternate": {
         "inputs": [
             [
                 "Fuel",
-                6.0
-            ],
-            [
-                "Compacted Coal",
-                4.0
+                22.5
             ]
         ],
-        "outputs": [
-            [
-                "Turbofuel",
-                5.0
-            ]
-        ]
+        "outputs": []
     },
     "Wet Concretealternate": {
         "inputs": [
             [
                 "Limestone",
-                6.0
-            ],
-            [
-                "Water",
-                5.0
+                120.0
             ]
         ],
-        "outputs": [
-            [
-                "Concrete",
-                4.0
-            ]
-        ]
+        "outputs": []
     }
 }

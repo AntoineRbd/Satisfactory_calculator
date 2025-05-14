@@ -22,14 +22,18 @@ def parse_ingredients(cell: Tag) -> List[Tuple[str, float]]:
     items: List[Tuple[str, float]] = []
     lines = list(cell.stripped_strings)
     i = 0
+    print(f"Line parse : {lines}")
     while i < len(lines):
         line = lines[i]
-        match_qty = re.match(r"([\d\.,]+)\s×", line)
+        print(f"Currently watched: {line}")
+        match_qty = re.match(r"^([\d\.,]+)\s*/\s*min$", line, re.IGNORECASE)
         if match_qty and i + 1 < len(lines):
             qty_str = match_qty.group(1)
-            item_name = lines[i + 1]
+            print(f"Quantity : {qty_str}")
+            item_name = lines[i - 1]
             try:
-                qty = float(qty_str.replace(',', '')) * 
+                qty = float(qty_str.replace(',', ''))
+                print(f"Quantity add: {qty}")
                 items.append((item_name.title(), qty))
             except ValueError:
                 pass
@@ -57,7 +61,7 @@ def scrape_machine_recipes(machine_name: str, url: str) -> Dict[str, Dict[str, L
 
             recipe_name: str = cols[0].get_text(strip=True).title()
             inputs: List[Tuple[str, float]] = parse_ingredients(cols[1])
-            outputs: List[Tuple[str, float]] = parse_ingredients(cols[3])
+            outputs: List[Tuple[str, float]] = parse_ingredients(cols[2])
             recipes[recipe_name] = {
                 "inputs": inputs,
                 "outputs": outputs

@@ -3,1134 +3,567 @@ RECIPES = {
         "inputs": [
             [
                 "Copper Sheet",
-                5.0
-            ],
-            [
-                "Quickwire",
-                20.0
+                25.0
             ]
         ],
-        "outputs": [
-            [
-                "Ai Limiter",
-                1.0
-            ]
-        ]
+        "outputs": []
     },
     "Alclad Aluminum Sheet": {
         "inputs": [
             [
                 "Aluminum Ingot",
-                3.0
-            ],
-            [
-                "Copper Ingot",
-                1.0
+                30.0
             ]
         ],
-        "outputs": [
-            [
-                "Alclad Aluminum Sheet",
-                3.0
-            ]
-        ]
+        "outputs": []
     },
     "Assembly Director System": {
         "inputs": [
             [
                 "Adaptive Control Unit",
-                2.0
-            ],
-            [
-                "Supercomputer",
-                1.0
+                1.5
             ]
         ],
-        "outputs": [
-            [
-                "Assembly Director System",
-                1.0
-            ]
-        ]
+        "outputs": []
     },
     "Automated Wiring": {
         "inputs": [
             [
                 "Stator",
-                1.0
-            ],
-            [
-                "Cable",
-                20.0
+                2.5
             ]
         ],
-        "outputs": [
-            [
-                "Automated Wiring",
-                1.0
-            ]
-        ]
+        "outputs": []
     },
     "Black Powder": {
         "inputs": [
             [
                 "Coal",
-                1.0
-            ],
-            [
-                "Sulfur",
-                1.0
+                15.0
             ]
         ],
-        "outputs": [
-            [
-                "Black Powder",
-                2.0
-            ]
-        ]
+        "outputs": []
     },
     "Circuit Board": {
         "inputs": [
             [
                 "Copper Sheet",
-                2.0
-            ],
-            [
-                "Plastic",
-                4.0
+                15.0
             ]
         ],
-        "outputs": [
-            [
-                "Circuit Board",
-                1.0
-            ]
-        ]
+        "outputs": []
     },
     "Cluster Nobelisk": {
         "inputs": [
             [
                 "Nobelisk",
-                3.0
-            ],
-            [
-                "Smokeless Powder",
-                4.0
+                7.5
             ]
         ],
-        "outputs": [
-            [
-                "Cluster Nobelisk",
-                1.0
-            ]
-        ]
+        "outputs": []
     },
     "Electromagnetic Control Rod": {
         "inputs": [
             [
                 "Stator",
-                3.0
-            ],
-            [
-                "Ai Limiter",
-                2.0
+                6.0
             ]
         ],
-        "outputs": [
-            [
-                "Electromagnetic Control Rod",
-                2.0
-            ]
-        ]
+        "outputs": []
     },
     "Encased Industrial Beam": {
         "inputs": [
             [
                 "Steel Beam",
-                3.0
-            ],
-            [
-                "Concrete",
-                6.0
+                18.0
             ]
         ],
-        "outputs": [
-            [
-                "Encased Industrial Beam",
-                1.0
-            ]
-        ]
+        "outputs": []
     },
     "Encased Plutonium Cell": {
         "inputs": [
             [
                 "Plutonium Pellet",
-                2.0
-            ],
-            [
-                "Concrete",
-                4.0
+                10.0
             ]
         ],
-        "outputs": [
-            [
-                "Encased Plutonium Cell",
-                1.0
-            ]
-        ]
+        "outputs": []
     },
     "Fabric": {
         "inputs": [
             [
                 "Mycelia",
-                1.0
-            ],
-            [
-                "Biomass",
-                5.0
+                15.0
             ]
         ],
-        "outputs": [
-            [
-                "Fabric",
-                1.0
-            ]
-        ]
+        "outputs": []
     },
     "Fancy Fireworks": {
         "inputs": [
             [
                 "Ficsmas Tree Branch",
-                4.0
-            ],
-            [
-                "Ficsmas Bow",
-                3.0
+                10.0
             ]
         ],
-        "outputs": [
-            [
-                "Fancy Fireworks",
-                1.0
-            ]
-        ]
+        "outputs": []
     },
     "Gas Nobelisk": {
         "inputs": [
             [
                 "Nobelisk",
-                1.0
-            ],
-            [
-                "Biomass",
-                10.0
+                5.0
             ]
         ],
-        "outputs": [
-            [
-                "Gas Nobelisk",
-                1.0
-            ]
-        ]
+        "outputs": []
     },
     "Heat Sink": {
         "inputs": [
             [
                 "Alclad Aluminum Sheet",
-                5.0
-            ],
-            [
-                "Copper Sheet",
-                3.0
+                37.5
             ]
         ],
-        "outputs": [
-            [
-                "Heat Sink",
-                1.0
-            ]
-        ]
+        "outputs": []
     },
     "Homing Rifle Ammo": {
         "inputs": [
             [
                 "Rifle Ammo",
-                20.0
-            ],
-            [
-                "High-Speed Connector",
-                1.0
+                50.0
             ]
         ],
-        "outputs": [
-            [
-                "Homing Rifle Ammo",
-                10.0
-            ]
-        ]
+        "outputs": []
     },
     "Magnetic Field Generator": {
         "inputs": [
             [
                 "Versatile Framework",
-                5.0
-            ],
-            [
-                "Electromagnetic Control Rod",
-                2.0
+                2.5
             ]
         ],
-        "outputs": [
-            [
-                "Magnetic Field Generator",
-                2.0
-            ]
-        ]
+        "outputs": []
     },
     "Modular Frame": {
         "inputs": [
             [
                 "Reinforced Iron Plate",
                 3.0
-            ],
-            [
-                "Iron Rod",
-                12.0
             ]
         ],
-        "outputs": [
-            [
-                "Modular Frame",
-                2.0
-            ]
-        ]
+        "outputs": []
     },
     "Motor": {
         "inputs": [
             [
                 "Rotor",
-                2.0
-            ],
-            [
-                "Stator",
-                2.0
+                10.0
             ]
         ],
-        "outputs": [
-            [
-                "Motor",
-                1.0
-            ]
-        ]
+        "outputs": []
     },
     "Nobelisk": {
         "inputs": [
             [
                 "Black Powder",
-                2.0
-            ],
-            [
-                "Steel Pipe",
-                2.0
+                20.0
             ]
         ],
-        "outputs": [
-            [
-                "Nobelisk",
-                1.0
-            ]
-        ]
+        "outputs": []
     },
     "Pressure Conversion Cube": {
         "inputs": [
             [
                 "Fused Modular Frame",
                 1.0
-            ],
-            [
-                "Radio Control Unit",
-                2.0
             ]
         ],
-        "outputs": [
-            [
-                "Pressure Conversion Cube",
-                1.0
-            ]
-        ]
+        "outputs": []
     },
     "Pulse Nobelisk": {
         "inputs": [
             [
                 "Nobelisk",
                 5.0
-            ],
-            [
-                "Crystal Oscillator",
-                1.0
             ]
         ],
-        "outputs": [
-            [
-                "Pulse Nobelisk",
-                5.0
-            ]
-        ]
+        "outputs": []
     },
     "Reinforced Iron Plate": {
         "inputs": [
             [
                 "Iron Plate",
-                6.0
-            ],
-            [
-                "Screw",
-                12.0
+                30.0
             ]
         ],
-        "outputs": [
-            [
-                "Reinforced Iron Plate",
-                1.0
-            ]
-        ]
+        "outputs": []
     },
     "Rifle Ammo": {
         "inputs": [
             [
                 "Copper Sheet",
-                3.0
-            ],
-            [
-                "Smokeless Powder",
-                2.0
-            ]
-        ],
-        "outputs": [
-            [
-                "Rifle Ammo",
                 15.0
             ]
-        ]
+        ],
+        "outputs": []
     },
     "Rotor": {
         "inputs": [
             [
                 "Iron Rod",
-                5.0
-            ],
-            [
-                "Screw",
-                25.0
+                20.0
             ]
         ],
-        "outputs": [
-            [
-                "Rotor",
-                1.0
-            ]
-        ]
+        "outputs": []
     },
     "Shatter Rebar": {
         "inputs": [
             [
                 "Iron Rebar",
-                2.0
-            ],
-            [
-                "Quartz Crystal",
-                3.0
+                10.0
             ]
         ],
-        "outputs": [
-            [
-                "Shatter Rebar",
-                1.0
-            ]
-        ]
+        "outputs": []
     },
     "Smart Plating": {
         "inputs": [
             [
                 "Reinforced Iron Plate",
-                1.0
-            ],
-            [
-                "Rotor",
-                1.0
+                2.0
             ]
         ],
-        "outputs": [
-            [
-                "Smart Plating",
-                1.0
-            ]
-        ]
+        "outputs": []
     },
     "Sparkly Fireworks": {
         "inputs": [
             [
                 "Ficsmas Tree Branch",
-                3.0
-            ],
-            [
-                "Ficsmas Actual Snow",
-                2.0
+                7.5
             ]
         ],
-        "outputs": [
-            [
-                "Sparkly Fireworks",
-                1.0
-            ]
-        ]
+        "outputs": []
     },
     "Stator": {
         "inputs": [
             [
                 "Steel Pipe",
-                3.0
-            ],
-            [
-                "Wire",
-                8.0
+                15.0
             ]
         ],
-        "outputs": [
-            [
-                "Stator",
-                1.0
-            ]
-        ]
+        "outputs": []
     },
     "Stun Rebar": {
         "inputs": [
             [
                 "Iron Rebar",
-                1.0
-            ],
-            [
-                "Quickwire",
-                5.0
+                10.0
             ]
         ],
-        "outputs": [
-            [
-                "Stun Rebar",
-                1.0
-            ]
-        ]
+        "outputs": []
     },
     "Sweet Fireworks": {
         "inputs": [
             [
                 "Ficsmas Tree Branch",
-                6.0
-            ],
-            [
-                "Candy Cane",
-                3.0
+                15.0
             ]
         ],
-        "outputs": [
-            [
-                "Sweet Fireworks",
-                1.0
-            ]
-        ]
+        "outputs": []
     },
     "Versatile Framework": {
         "inputs": [
             [
                 "Modular Frame",
-                1.0
-            ],
-            [
-                "Steel Beam",
-                12.0
+                2.5
             ]
         ],
-        "outputs": [
-            [
-                "Versatile Framework",
-                2.0
-            ]
-        ]
+        "outputs": []
     },
     "Adhered Iron Platealternate": {
         "inputs": [
             [
                 "Iron Plate",
-                3.0
-            ],
-            [
-                "Rubber",
-                1.0
+                11.25
             ]
         ],
-        "outputs": [
-            [
-                "Reinforced Iron Plate",
-                1.0
-            ]
-        ]
+        "outputs": []
     },
     "Alclad Casingalternate": {
         "inputs": [
             [
                 "Aluminum Ingot",
-                20.0
-            ],
-            [
-                "Copper Ingot",
-                10.0
+                150.0
             ]
         ],
-        "outputs": [
-            [
-                "Aluminum Casing",
-                15.0
-            ]
-        ]
+        "outputs": []
     },
     "Automated Mineralternate": {
         "inputs": [
             [
                 "Steel Pipe",
                 4.0
-            ],
-            [
-                "Iron Plate",
-                4.0
             ]
         ],
-        "outputs": [
-            [
-                "Portable Miner",
-                1.0
-            ]
-        ]
+        "outputs": []
     },
     "Bolted Framealternate": {
         "inputs": [
             [
                 "Reinforced Iron Plate",
-                3.0
-            ],
-            [
-                "Screw",
-                56.0
+                7.5
             ]
         ],
-        "outputs": [
-            [
-                "Modular Frame",
-                2.0
-            ]
-        ]
+        "outputs": []
     },
     "Bolted Iron Platealternate": {
         "inputs": [
             [
                 "Iron Plate",
-                18.0
-            ],
-            [
-                "Screw",
-                50.0
+                90.0
             ]
         ],
-        "outputs": [
-            [
-                "Reinforced Iron Plate",
-                3.0
-            ]
-        ]
+        "outputs": []
     },
     "Caterium Circuit Boardalternate": {
         "inputs": [
             [
                 "Plastic",
-                10.0
-            ],
-            [
-                "Quickwire",
-                30.0
+                12.5
             ]
         ],
-        "outputs": [
-            [
-                "Circuit Board",
-                7.0
-            ]
-        ]
+        "outputs": []
     },
     "Cheap Silicaalternate": {
         "inputs": [
             [
                 "Raw Quartz",
-                3.0
-            ],
-            [
-                "Limestone",
-                5.0
+                22.5
             ]
         ],
-        "outputs": [
-            [
-                "Silica",
-                7.0
-            ]
-        ]
+        "outputs": []
     },
     "Coated Iron Canisteralternate": {
         "inputs": [
             [
                 "Iron Plate",
-                2.0
-            ],
-            [
-                "Copper Sheet",
-                1.0
+                30.0
             ]
         ],
-        "outputs": [
-            [
-                "Empty Canister",
-                4.0
-            ]
-        ]
+        "outputs": []
     },
     "Coated Iron Platealternate": {
         "inputs": [
             [
                 "Iron Ingot",
-                5.0
-            ],
-            [
-                "Plastic",
-                1.0
+                37.5
             ]
         ],
-        "outputs": [
-            [
-                "Iron Plate",
-                10.0
-            ]
-        ]
+        "outputs": []
     },
     "Compacted Coalalternate": {
         "inputs": [
             [
                 "Coal",
-                5.0
-            ],
-            [
-                "Sulfur",
-                5.0
+                25.0
             ]
         ],
-        "outputs": [
-            [
-                "Compacted Coal",
-                5.0
-            ]
-        ]
+        "outputs": []
     },
     "Copper Rotoralternate": {
         "inputs": [
             [
                 "Copper Sheet",
-                6.0
-            ],
-            [
-                "Screw",
-                52.0
+                22.5
             ]
         ],
-        "outputs": [
-            [
-                "Rotor",
-                3.0
-            ]
-        ]
+        "outputs": []
     },
     "Crystal Computeralternate": {
         "inputs": [
             [
                 "Circuit Board",
-                3.0
-            ],
-            [
-                "Crystal Oscillator",
-                1.0
+                5.0
             ]
         ],
-        "outputs": [
-            [
-                "Computer",
-                2.0
-            ]
-        ]
+        "outputs": []
     },
     "Electric Motoralternate": {
         "inputs": [
             [
                 "Electromagnetic Control Rod",
-                1.0
-            ],
-            [
-                "Rotor",
-                2.0
+                3.75
             ]
         ],
-        "outputs": [
-            [
-                "Motor",
-                2.0
-            ]
-        ]
+        "outputs": []
     },
     "Electrode Circuit Boardalternate": {
         "inputs": [
             [
                 "Rubber",
-                4.0
-            ],
-            [
-                "Petroleum Coke",
-                8.0
+                20.0
             ]
         ],
-        "outputs": [
-            [
-                "Circuit Board",
-                1.0
-            ]
-        ]
+        "outputs": []
     },
     "Electromagnetic Connection Rodalternate": {
         "inputs": [
             [
                 "Stator",
-                2.0
-            ],
-            [
-                "High-Speed Connector",
-                1.0
+                8.0
             ]
         ],
-        "outputs": [
-            [
-                "Electromagnetic Control Rod",
-                2.0
-            ]
-        ]
+        "outputs": []
     },
     "Encased Industrial Pipealternate": {
         "inputs": [
             [
                 "Steel Pipe",
-                6.0
-            ],
-            [
-                "Concrete",
-                5.0
+                24.0
             ]
         ],
-        "outputs": [
-            [
-                "Encased Industrial Beam",
-                1.0
-            ]
-        ]
+        "outputs": []
     },
     "Fine Black Powderalternate": {
         "inputs": [
             [
                 "Sulfur",
-                1.0
-            ],
-            [
-                "Compacted Coal",
-                2.0
+                7.5
             ]
         ],
-        "outputs": [
-            [
-                "Black Powder",
-                6.0
-            ]
-        ]
+        "outputs": []
     },
     "Fine Concretealternate": {
         "inputs": [
             [
                 "Silica",
-                3.0
-            ],
-            [
-                "Limestone",
-                12.0
+                15.0
             ]
         ],
-        "outputs": [
-            [
-                "Concrete",
-                10.0
-            ]
-        ]
+        "outputs": []
     },
     "Fused Quickwirealternate": {
         "inputs": [
             [
                 "Caterium Ingot",
-                1.0
-            ],
-            [
-                "Copper Ingot",
-                5.0
+                7.5
             ]
         ],
-        "outputs": [
-            [
-                "Quickwire",
-                12.0
-            ]
-        ]
+        "outputs": []
     },
     "Fused Wirealternate": {
         "inputs": [
             [
                 "Copper Ingot",
-                4.0
-            ],
-            [
-                "Caterium Ingot",
-                1.0
+                12.0
             ]
         ],
-        "outputs": [
-            [
-                "Wire",
-                30.0
-            ]
-        ]
+        "outputs": []
     },
     "Heat Exchangeralternate": {
         "inputs": [
             [
                 "Aluminum Casing",
-                3.0
-            ],
-            [
-                "Rubber",
-                3.0
+                30.0
             ]
         ],
-        "outputs": [
-            [
-                "Heat Sink",
-                1.0
-            ]
-        ]
+        "outputs": []
     },
     "Insulated Cablealternate": {
         "inputs": [
             [
                 "Wire",
-                9.0
-            ],
-            [
-                "Rubber",
-                6.0
+                45.0
             ]
         ],
-        "outputs": [
-            [
-                "Cable",
-                20.0
-            ]
-        ]
+        "outputs": []
     },
     "Oc Supercomputeralternate": {
         "inputs": [
             [
                 "Radio Control Unit",
-                2.0
-            ],
-            [
-                "Cooling System",
-                2.0
+                6.0
             ]
         ],
-        "outputs": [
-            [
-                "Supercomputer",
-                1.0
-            ]
-        ]
+        "outputs": []
     },
     "Plastic Ai Limiteralternate": {
         "inputs": [
             [
                 "Quickwire",
-                30.0
-            ],
-            [
-                "Plastic",
-                7.0
+                120.0
             ]
         ],
-        "outputs": [
-            [
-                "Ai Limiter",
-                2.0
-            ]
-        ]
+        "outputs": []
     },
     "Plutonium Fuel Unitalternate": {
         "inputs": [
             [
                 "Encased Plutonium Cell",
-                20.0
-            ],
-            [
-                "Pressure Conversion Cube",
-                1.0
+                10.0
             ]
         ],
-        "outputs": [
-            [
-                "Plutonium Fuel Rod",
-                1.0
-            ]
-        ]
+        "outputs": []
     },
     "Quickwire Cablealternate": {
         "inputs": [
             [
                 "Quickwire",
-                3.0
-            ],
-            [
-                "Rubber",
-                2.0
+                7.5
             ]
         ],
-        "outputs": [
-            [
-                "Cable",
-                11.0
-            ]
-        ]
+        "outputs": []
     },
     "Quickwire Statoralternate": {
         "inputs": [
             [
                 "Steel Pipe",
-                4.0
-            ],
-            [
-                "Quickwire",
-                15.0
+                16.0
             ]
         ],
-        "outputs": [
-            [
-                "Stator",
-                2.0
-            ]
-        ]
+        "outputs": []
     },
     "Rubber Concretealternate": {
         "inputs": [
             [
                 "Limestone",
-                10.0
-            ],
-            [
-                "Rubber",
-                2.0
+                100.0
             ]
         ],
-        "outputs": [
-            [
-                "Concrete",
-                9.0
-            ]
-        ]
+        "outputs": []
     },
     "Silicon Circuit Boardalternate": {
         "inputs": [
             [
                 "Copper Sheet",
-                11.0
-            ],
-            [
-                "Silica",
-                11.0
+                27.5
             ]
         ],
-        "outputs": [
-            [
-                "Circuit Board",
-                5.0
-            ]
-        ]
+        "outputs": []
     },
     "Steel Rotoralternate": {
         "inputs": [
             [
                 "Steel Pipe",
-                2.0
-            ],
-            [
-                "Wire",
-                6.0
+                10.0
             ]
         ],
-        "outputs": [
-            [
-                "Rotor",
-                1.0
-            ]
-        ]
+        "outputs": []
     },
     "Steeled Framealternate": {
         "inputs": [
             [
                 "Reinforced Iron Plate",
                 2.0
-            ],
-            [
-                "Steel Pipe",
-                10.0
             ]
         ],
-        "outputs": [
-            [
-                "Modular Frame",
-                3.0
-            ]
-        ]
+        "outputs": []
     },
     "Stitched Iron Platealternate": {
         "inputs": [
             [
                 "Iron Plate",
-                10.0
-            ],
-            [
-                "Wire",
-                20.0
+                18.75
             ]
         ],
-        "outputs": [
-            [
-                "Reinforced Iron Plate",
-                3.0
-            ]
-        ]
+        "outputs": []
     }
 }

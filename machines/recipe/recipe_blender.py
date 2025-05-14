@@ -3,426 +3,241 @@ RECIPES = {
         "inputs": [
             [
                 "Sulfuric Acid",
-                2.5
+                50.0
             ],
             [
                 "Alumina Solution",
-                2.0
-            ],
-            [
-                "Aluminum Casing",
-                1.0
+                40.0
             ]
         ],
-        "outputs": [
-            [
-                "Battery",
-                1.0
-            ],
-            [
-                "Water",
-                1.5
-            ]
-        ]
+        "outputs": []
     },
     "Biochemical Sculptor": {
         "inputs": [
             [
                 "Assembly Director System",
-                1.0
+                0.5
             ],
             [
                 "Ficsite Trigon",
-                80.0
-            ],
-            [
-                "Water",
-                20.0
+                40.0
             ]
         ],
-        "outputs": [
-            [
-                "Biochemical Sculptor",
-                4.0
-            ]
-        ]
+        "outputs": []
     },
     "Cooling System": {
         "inputs": [
             [
                 "Heat Sink",
-                2.0
+                12.0
             ],
             [
                 "Rubber",
-                2.0
+                12.0
             ],
             [
                 "Water",
-                5.0
-            ],
-            [
-                "Nitrogen Gas",
-                25.0
+                30.0
             ]
         ],
-        "outputs": [
-            [
-                "Cooling System",
-                1.0
-            ]
-        ]
+        "outputs": []
     },
     "Encased Uranium Cell": {
         "inputs": [
             [
                 "Uranium",
-                10.0
+                50.0
             ],
             [
                 "Concrete",
-                3.0
-            ],
-            [
-                "Sulfuric Acid",
-                8.0
+                15.0
             ]
         ],
-        "outputs": [
-            [
-                "Encased Uranium Cell",
-                5.0
-            ],
-            [
-                "Sulfuric Acid",
-                2.0
-            ]
-        ]
+        "outputs": []
     },
     "Fused Modular Frame": {
         "inputs": [
             [
                 "Heavy Modular Frame",
-                1.0
+                1.5
             ],
             [
                 "Aluminum Casing",
-                50.0
-            ],
-            [
-                "Nitrogen Gas",
-                25.0
+                75.0
             ]
         ],
-        "outputs": [
-            [
-                "Fused Modular Frame",
-                1.0
-            ]
-        ]
+        "outputs": []
     },
     "Nitric Acid": {
         "inputs": [
             [
                 "Nitrogen Gas",
-                12.0
+                120.0
             ],
             [
                 "Water",
-                3.0
-            ],
-            [
-                "Iron Plate",
-                1.0
+                30.0
             ]
         ],
-        "outputs": [
-            [
-                "Nitric Acid",
-                3.0
-            ]
-        ]
+        "outputs": []
     },
     "Non-Fissile Uranium": {
         "inputs": [
             [
                 "Uranium Waste",
-                15.0
+                37.5
             ],
             [
                 "Silica",
-                10.0
+                25.0
             ],
             [
                 "Nitric Acid",
-                6.0
-            ],
-            [
-                "Sulfuric Acid",
-                6.0
+                15.0
             ]
         ],
-        "outputs": [
-            [
-                "Non-Fissile Uranium",
-                20.0
-            ],
-            [
-                "Water",
-                6.0
-            ]
-        ]
+        "outputs": []
     },
     "Rocket Fuel": {
         "inputs": [
             [
                 "Turbofuel",
-                6.0
-            ],
-            [
-                "Nitric Acid",
-                1.0
+                60.0
             ]
         ],
-        "outputs": [
-            [
-                "Rocket Fuel",
-                10.0
-            ],
-            [
-                "Compacted Coal",
-                1.0
-            ]
-        ]
+        "outputs": []
     },
     "Turbo Rifle Ammo": {
         "inputs": [
             [
                 "Rifle Ammo",
-                25.0
+                125.0
             ],
             [
                 "Aluminum Casing",
-                3.0
-            ],
-            [
-                "Turbofuel",
-                3.0
+                15.0
             ]
         ],
-        "outputs": [
-            [
-                "Turbo Rifle Ammo",
-                50.0
-            ]
-        ]
+        "outputs": []
     },
     "Cooling Devicealternate": {
         "inputs": [
             [
                 "Heat Sink",
-                4.0
+                10.0
             ],
             [
                 "Motor",
-                1.0
-            ],
-            [
-                "Nitrogen Gas",
-                24.0
+                2.5
             ]
         ],
-        "outputs": [
-            [
-                "Cooling System",
-                2.0
-            ]
-        ]
+        "outputs": []
     },
     "Diluted Fuelalternate": {
         "inputs": [
             [
                 "Heavy Oil Residue",
-                5.0
-            ],
-            [
-                "Water",
-                10.0
+                50.0
             ]
         ],
-        "outputs": [
-            [
-                "Fuel",
-                10.0
-            ]
-        ]
+        "outputs": []
     },
     "Distilled Silicaalternate": {
         "inputs": [
             [
                 "Dissolved Silica",
-                12.0
+                120.0
             ],
             [
                 "Limestone",
-                5.0
-            ],
-            [
-                "Water",
-                10.0
+                50.0
             ]
         ],
-        "outputs": [
-            [
-                "Silica",
-                27.0
-            ],
-            [
-                "Water",
-                8.0
-            ]
-        ]
+        "outputs": []
     },
     "Fertile Uraniumalternate": {
         "inputs": [
             [
                 "Uranium",
-                5.0
+                25.0
             ],
             [
                 "Uranium Waste",
-                5.0
+                25.0
             ],
             [
                 "Nitric Acid",
-                3.0
-            ],
-            [
-                "Sulfuric Acid",
-                5.0
+                15.0
             ]
         ],
-        "outputs": [
-            [
-                "Non-Fissile Uranium",
-                20.0
-            ],
-            [
-                "Water",
-                8.0
-            ]
-        ]
+        "outputs": []
     },
     "Heat-Fused Framealternate": {
         "inputs": [
             [
                 "Heavy Modular Frame",
-                1.0
+                3.0
             ],
             [
                 "Aluminum Ingot",
-                50.0
+                150.0
             ],
             [
                 "Nitric Acid",
-                8.0
-            ],
-            [
-                "Fuel",
-                10.0
+                24.0
             ]
         ],
-        "outputs": [
-            [
-                "Fused Modular Frame",
-                1.0
-            ]
-        ]
+        "outputs": []
     },
     "Instant Scrapalternate": {
         "inputs": [
             [
                 "Bauxite",
-                15.0
+                150.0
             ],
             [
                 "Coal",
-                10.0
+                100.0
             ],
             [
                 "Sulfuric Acid",
-                5.0
-            ],
-            [
-                "Water",
-                6.0
+                50.0
             ]
         ],
-        "outputs": [
-            [
-                "Aluminum Scrap",
-                30.0
-            ],
-            [
-                "Water",
-                5.0
-            ]
-        ]
+        "outputs": []
     },
     "Nitro Rocket Fuelalternate": {
         "inputs": [
             [
                 "Fuel",
-                4.0
+                100.0
             ],
             [
                 "Nitrogen Gas",
-                3.0
+                75.0
             ],
             [
                 "Sulfur",
-                4.0
-            ],
-            [
-                "Coal",
-                2.0
+                100.0
             ]
         ],
-        "outputs": [
-            [
-                "Rocket Fuel",
-                6.0
-            ],
-            [
-                "Compacted Coal",
-                1.0
-            ]
-        ]
+        "outputs": []
     },
     "Turbo Blend Fuelalternate": {
         "inputs": [
             [
                 "Fuel",
-                2.0
+                15.0
             ],
             [
                 "Heavy Oil Residue",
-                4.0
+                30.0
             ],
             [
                 "Sulfur",
-                3.0
-            ],
-            [
-                "Petroleum Coke",
-                3.0
+                22.5
             ]
         ],
-        "outputs": [
-            [
-                "Turbofuel",
-                6.0
-            ]
-        ]
+        "outputs": []
     }
 }
