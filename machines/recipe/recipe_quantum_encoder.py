@@ -12,9 +12,22 @@ RECIPES = {
             [
                 "Superposition Oscillator",
                 4.0
+            ],
+            [
+                "Excited Photonic Matter",
+                100.0
             ]
         ],
-        "outputs": []
+        "outputs": [
+            [
+                "Ai Expansion Server",
+                4.0
+            ],
+            [
+                "Dark Matter Residue",
+                100.0
+            ]
+        ]
     },
     "Alien Power Matrix": {
         "inputs": [
@@ -29,9 +42,22 @@ RECIPES = {
             [
                 "Superposition Oscillator",
                 7.5
+            ],
+            [
+                "Excited Photonic Matter",
+                60.0
             ]
         ],
-        "outputs": []
+        "outputs": [
+            [
+                "Alien Power Matrix",
+                2.5
+            ],
+            [
+                "Dark Matter Residue",
+                60.0
+            ]
+        ]
     },
     "Ficsonium Fuel Rod": {
         "inputs": [
@@ -46,9 +72,22 @@ RECIPES = {
             [
                 "Ficsite Trigon",
                 100.0
+            ],
+            [
+                "Excited Photonic Matter",
+                50.0
             ]
         ],
-        "outputs": []
+        "outputs": [
+            [
+                "Ficsonium Fuel Rod",
+                2.5
+            ],
+            [
+                "Dark Matter Residue",
+                50.0
+            ]
+        ]
     },
     "Neural-Quantum Processor": {
         "inputs": [
@@ -63,9 +102,22 @@ RECIPES = {
             [
                 "Ficsite Trigon",
                 45.0
+            ],
+            [
+                "Excited Photonic Matter",
+                75.0
             ]
         ],
-        "outputs": []
+        "outputs": [
+            [
+                "Neural-Quantum Processor",
+                3.0
+            ],
+            [
+                "Dark Matter Residue",
+                75.0
+            ]
+        ]
     },
     "Superposition Oscillator": {
         "inputs": [
@@ -80,9 +132,22 @@ RECIPES = {
             [
                 "Alclad Aluminum Sheet",
                 45.0
+            ],
+            [
+                "Excited Photonic Matter",
+                125.0
             ]
         ],
-        "outputs": []
+        "outputs": [
+            [
+                "Superposition Oscillator",
+                5.0
+            ],
+            [
+                "Dark Matter Residue",
+                125.0
+            ]
+        ]
     },
     "Synthetic Power Shard": {
         "inputs": [
@@ -97,8 +162,21 @@ RECIPES = {
             [
                 "Quartz Crystal",
                 60.0
+            ],
+            [
+                "Excited Photonic Matter",
+                60.0
             ]
         ],
-        "outputs": []
+        "outputs": [
+            [
+                "Power Shard",
+                5.0
+            ],
+            [
+                "Dark Matter Residue",
+                60.0
+            ]
+        ]
     }
 }

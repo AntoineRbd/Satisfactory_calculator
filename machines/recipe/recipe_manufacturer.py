@@ -12,9 +12,18 @@ RECIPES = {
             [
                 "Heavy Modular Frame",
                 1.0
+            ],
+            [
+                "Computer",
+                2.0
             ]
         ],
-        "outputs": []
+        "outputs": [
+            [
+                "Adaptive Control Unit",
+                1.0
+            ]
+        ]
     },
     "Ballistic Warp Drive": {
         "inputs": [
@@ -29,9 +38,18 @@ RECIPES = {
             [
                 "Superposition Oscillator",
                 2.0
+            ],
+            [
+                "Dark Matter Crystal",
+                40.0
             ]
         ],
-        "outputs": []
+        "outputs": [
+            [
+                "Ballistic Warp Drive",
+                1.0
+            ]
+        ]
     },
     "Computer": {
         "inputs": [
@@ -42,9 +60,18 @@ RECIPES = {
             [
                 "Cable",
                 20.0
+            ],
+            [
+                "Plastic",
+                40.0
             ]
         ],
-        "outputs": []
+        "outputs": [
+            [
+                "Computer",
+                2.5
+            ]
+        ]
     },
     "Crystal Oscillator": {
         "inputs": [
@@ -55,9 +82,18 @@ RECIPES = {
             [
                 "Cable",
                 14.0
+            ],
+            [
+                "Reinforced Iron Plate",
+                2.5
             ]
         ],
-        "outputs": []
+        "outputs": [
+            [
+                "Crystal Oscillator",
+                1.0
+            ]
+        ]
     },
     "Explosive Rebar": {
         "inputs": [
@@ -68,9 +104,18 @@ RECIPES = {
             [
                 "Smokeless Powder",
                 10.0
+            ],
+            [
+                "Steel Pipe",
+                10.0
             ]
         ],
-        "outputs": []
+        "outputs": [
+            [
+                "Explosive Rebar",
+                5.0
+            ]
+        ]
     },
     "Gas Filter": {
         "inputs": [
@@ -81,9 +126,18 @@ RECIPES = {
             [
                 "Coal",
                 30.0
+            ],
+            [
+                "Iron Plate",
+                15.0
             ]
         ],
-        "outputs": []
+        "outputs": [
+            [
+                "Gas Filter",
+                7.5
+            ]
+        ]
     },
     "Heavy Modular Frame": {
         "inputs": [
@@ -98,9 +152,18 @@ RECIPES = {
             [
                 "Encased Industrial Beam",
                 10.0
+            ],
+            [
+                ")",
+                240.0
             ]
         ],
-        "outputs": []
+        "outputs": [
+            [
+                "Heavy Modular Frame",
+                2.0
+            ]
+        ]
     },
     "High-Speed Connector": {
         "inputs": [
@@ -111,9 +174,18 @@ RECIPES = {
             [
                 "Cable",
                 37.5
+            ],
+            [
+                "Circuit Board",
+                3.75
             ]
         ],
-        "outputs": []
+        "outputs": [
+            [
+                "High-Speed Connector",
+                3.75
+            ]
+        ]
     },
     "Iodine-Infused Filter": {
         "inputs": [
@@ -124,9 +196,18 @@ RECIPES = {
             [
                 "Quickwire",
                 30.0
+            ],
+            [
+                "Aluminum Casing",
+                3.75
             ]
         ],
-        "outputs": []
+        "outputs": [
+            [
+                "Iodine-Infused Filter",
+                3.75
+            ]
+        ]
     },
     "Modular Engine": {
         "inputs": [
@@ -137,9 +218,18 @@ RECIPES = {
             [
                 "Rubber",
                 15.0
+            ],
+            [
+                "Smart Plating",
+                2.0
             ]
         ],
-        "outputs": []
+        "outputs": [
+            [
+                "Modular Engine",
+                1.0
+            ]
+        ]
     },
     "Nuke Nobelisk": {
         "inputs": [
@@ -154,9 +244,18 @@ RECIPES = {
             [
                 "Smokeless Powder",
                 5.0
+            ],
+            [
+                "Ai Limiter",
+                3.0
             ]
         ],
-        "outputs": []
+        "outputs": [
+            [
+                "Nuke Nobelisk",
+                0.5
+            ]
+        ]
     },
     "Plutonium Fuel Rod": {
         "inputs": [
@@ -171,9 +270,18 @@ RECIPES = {
             [
                 "Electromagnetic Control Rod",
                 1.5
+            ],
+            [
+                "Heat Sink",
+                2.5
             ]
         ],
-        "outputs": []
+        "outputs": [
+            [
+                "Plutonium Fuel Rod",
+                0.25
+            ]
+        ]
     },
     "Radio Control Unit": {
         "inputs": [
@@ -184,9 +292,18 @@ RECIPES = {
             [
                 "Crystal Oscillator",
                 1.25
+            ],
+            [
+                "Computer",
+                2.5
             ]
         ],
-        "outputs": []
+        "outputs": [
+            [
+                "Radio Control Unit",
+                2.5
+            ]
+        ]
     },
     "Sam Fluctuator": {
         "inputs": [
@@ -197,9 +314,18 @@ RECIPES = {
             [
                 "Wire",
                 50.0
+            ],
+            [
+                "Steel Pipe",
+                30.0
             ]
         ],
-        "outputs": []
+        "outputs": [
+            [
+                "Sam Fluctuator",
+                10.0
+            ]
+        ]
     },
     "Singularity Cell": {
         "inputs": [
@@ -214,9 +340,18 @@ RECIPES = {
             [
                 "Iron Plate",
                 100.0
+            ],
+            [
+                "Concrete",
+                200.0
             ]
         ],
-        "outputs": []
+        "outputs": [
+            [
+                "Singularity Cell",
+                10.0
+            ]
+        ]
     },
     "Supercomputer": {
         "inputs": [
@@ -231,9 +366,18 @@ RECIPES = {
             [
                 "High-Speed Connector",
                 5.625
+            ],
+            [
+                "Plastic",
+                52.5
             ]
         ],
-        "outputs": []
+        "outputs": [
+            [
+                "Supercomputer",
+                1.875
+            ]
+        ]
     },
     "Thermal Propulsion Rocket": {
         "inputs": [
@@ -248,9 +392,18 @@ RECIPES = {
             [
                 "Cooling System",
                 3.0
+            ],
+            [
+                "Fused Modular Frame",
+                1.0
             ]
         ],
-        "outputs": []
+        "outputs": [
+            [
+                "Thermal Propulsion Rocket",
+                1.0
+            ]
+        ]
     },
     "Turbo Motor": {
         "inputs": [
@@ -265,9 +418,18 @@ RECIPES = {
             [
                 "Motor",
                 7.5
+            ],
+            [
+                "Rubber",
+                45.0
             ]
         ],
-        "outputs": []
+        "outputs": [
+            [
+                "Turbo Motor",
+                1.875
+            ]
+        ]
     },
     "Turbo Rifle Ammo": {
         "inputs": [
@@ -278,9 +440,18 @@ RECIPES = {
             [
                 "Aluminum Casing",
                 15.0
+            ],
+            [
+                "Packaged Turbofuel",
+                15.0
             ]
         ],
-        "outputs": []
+        "outputs": [
+            [
+                "Turbo Rifle Ammo",
+                250.0
+            ]
+        ]
     },
     "Uranium Fuel Rod": {
         "inputs": [
@@ -291,9 +462,18 @@ RECIPES = {
             [
                 "Encased Industrial Beam",
                 1.2
+            ],
+            [
+                "Electromagnetic Control Rod",
+                2.0
             ]
         ],
-        "outputs": []
+        "outputs": [
+            [
+                "Uranium Fuel Rod",
+                0.4
+            ]
+        ]
     },
     "Automated Speed Wiringalternate": {
         "inputs": [
@@ -304,9 +484,18 @@ RECIPES = {
             [
                 "Wire",
                 75.0
+            ],
+            [
+                "High-Speed Connector",
+                1.875
             ]
         ],
-        "outputs": []
+        "outputs": [
+            [
+                "Automated Wiring",
+                7.5
+            ]
+        ]
     },
     "Caterium Computeralternate": {
         "inputs": [
@@ -317,9 +506,18 @@ RECIPES = {
             [
                 "Quickwire",
                 52.5
+            ],
+            [
+                "Rubber",
+                22.5
             ]
         ],
-        "outputs": []
+        "outputs": [
+            [
+                "Computer",
+                3.75
+            ]
+        ]
     },
     "Classic Batteryalternate": {
         "inputs": [
@@ -334,9 +532,18 @@ RECIPES = {
             [
                 "Plastic",
                 60.0
+            ],
+            [
+                "Wire",
+                90.0
             ]
         ],
-        "outputs": []
+        "outputs": [
+            [
+                "Battery",
+                30.0
+            ]
+        ]
     },
     "Flexible Frameworkalternate": {
         "inputs": [
@@ -347,9 +554,18 @@ RECIPES = {
             [
                 "Steel Beam",
                 22.5
+            ],
+            [
+                "Rubber",
+                30.0
             ]
         ],
-        "outputs": []
+        "outputs": [
+            [
+                "Versatile Framework",
+                7.5
+            ]
+        ]
     },
     "Heavy Encased Framealternate": {
         "inputs": [
@@ -364,9 +580,18 @@ RECIPES = {
             [
                 "Steel Pipe",
                 33.75
+            ],
+            [
+                "Concrete",
+                20.625
             ]
         ],
-        "outputs": []
+        "outputs": [
+            [
+                "Heavy Modular Frame",
+                2.8125
+            ]
+        ]
     },
     "Heavy Flexible Framealternate": {
         "inputs": [
@@ -381,9 +606,18 @@ RECIPES = {
             [
                 "Rubber",
                 75.0
+            ],
+            [
+                ")",
+                390.0
             ]
         ],
-        "outputs": []
+        "outputs": [
+            [
+                "Heavy Modular Frame",
+                3.75
+            ]
+        ]
     },
     "Infused Uranium Cellalternate": {
         "inputs": [
@@ -398,9 +632,18 @@ RECIPES = {
             [
                 "Sulfur",
                 25.0
+            ],
+            [
+                "Quickwire",
+                75.0
             ]
         ],
-        "outputs": []
+        "outputs": [
+            [
+                "Encased Uranium Cell",
+                20.0
+            ]
+        ]
     },
     "Insulated Crystal Oscillatoralternate": {
         "inputs": [
@@ -411,9 +654,18 @@ RECIPES = {
             [
                 "Rubber",
                 13.125
+            ],
+            [
+                "Ai Limiter",
+                1.875
             ]
         ],
-        "outputs": []
+        "outputs": [
+            [
+                "Crystal Oscillator",
+                1.875
+            ]
+        ]
     },
     "Plastic Smart Platingalternate": {
         "inputs": [
@@ -424,9 +676,18 @@ RECIPES = {
             [
                 "Rotor",
                 2.5
+            ],
+            [
+                "Plastic",
+                7.5
             ]
         ],
-        "outputs": []
+        "outputs": [
+            [
+                "Smart Plating",
+                5.0
+            ]
+        ]
     },
     "Radio Connection Unitalternate": {
         "inputs": [
@@ -437,9 +698,18 @@ RECIPES = {
             [
                 "High-Speed Connector",
                 7.5
+            ],
+            [
+                "Quartz Crystal",
+                45.0
             ]
         ],
-        "outputs": []
+        "outputs": [
+            [
+                "Radio Control Unit",
+                3.75
+            ]
+        ]
     },
     "Radio Control Systemalternate": {
         "inputs": [
@@ -454,9 +724,18 @@ RECIPES = {
             [
                 "Aluminum Casing",
                 90.0
+            ],
+            [
+                "Rubber",
+                45.0
             ]
         ],
-        "outputs": []
+        "outputs": [
+            [
+                "Radio Control Unit",
+                4.5
+            ]
+        ]
     },
     "Rigor Motoralternate": {
         "inputs": [
@@ -467,9 +746,18 @@ RECIPES = {
             [
                 "Stator",
                 3.75
+            ],
+            [
+                "Crystal Oscillator",
+                1.25
             ]
         ],
-        "outputs": []
+        "outputs": [
+            [
+                "Motor",
+                7.5
+            ]
+        ]
     },
     "Silicon High-Speed Connectoralternate": {
         "inputs": [
@@ -480,9 +768,18 @@ RECIPES = {
             [
                 "Silica",
                 37.5
+            ],
+            [
+                "Circuit Board",
+                3.0
             ]
         ],
-        "outputs": []
+        "outputs": [
+            [
+                "High-Speed Connector",
+                3.0
+            ]
+        ]
     },
     "Super-State Computeralternate": {
         "inputs": [
@@ -497,9 +794,18 @@ RECIPES = {
             [
                 "Battery",
                 24.0
+            ],
+            [
+                "Wire",
+                60.0
             ]
         ],
-        "outputs": []
+        "outputs": [
+            [
+                "Supercomputer",
+                2.4
+            ]
+        ]
     },
     "Turbo Electric Motoralternate": {
         "inputs": [
@@ -514,9 +820,18 @@ RECIPES = {
             [
                 "Electromagnetic Control Rod",
                 4.6875
+            ],
+            [
+                "Rotor",
+                6.5625
             ]
         ],
-        "outputs": []
+        "outputs": [
+            [
+                "Turbo Motor",
+                2.8125
+            ]
+        ]
     },
     "Turbo Pressure Motoralternate": {
         "inputs": [
@@ -531,9 +846,18 @@ RECIPES = {
             [
                 "Packaged Nitrogen Gas",
                 45.0
+            ],
+            [
+                "Stator",
+                15.0
             ]
         ],
-        "outputs": []
+        "outputs": [
+            [
+                "Turbo Motor",
+                3.75
+            ]
+        ]
     },
     "Uranium Fuel Unitalternate": {
         "inputs": [
@@ -548,8 +872,17 @@ RECIPES = {
             [
                 "Crystal Oscillator",
                 0.6
+            ],
+            [
+                "Rotor",
+                2.0
             ]
         ],
-        "outputs": []
+        "outputs": [
+            [
+                "Uranium Fuel Rod",
+                0.6
+            ]
+        ]
     }
 }

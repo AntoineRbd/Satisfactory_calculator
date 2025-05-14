@@ -4,13 +4,32 @@ RECIPES = {
             [
                 "Diamonds",
                 30.0
+            ],
+            [
+                "Dark Matter Residue",
+                150.0
             ]
         ],
-        "outputs": []
+        "outputs": [
+            [
+                "Dark Matter Crystal",
+                30.0
+            ]
+        ]
     },
     "Diamonds": {
-        "inputs": [],
-        "outputs": []
+        "inputs": [
+            [
+                "Coal",
+                600.0
+            ]
+        ],
+        "outputs": [
+            [
+                "Diamonds",
+                30.0
+            ]
+        ]
     },
     "Ficsonium": {
         "inputs": [
@@ -21,74 +40,167 @@ RECIPES = {
             [
                 "Singularity Cell",
                 10.0
+            ],
+            [
+                "Dark Matter Residue",
+                200.0
             ]
         ],
-        "outputs": []
+        "outputs": [
+            [
+                "Ficsonium",
+                10.0
+            ]
+        ]
     },
     "Nuclear Pasta": {
         "inputs": [
             [
                 "Copper Powder",
                 100.0
+            ],
+            [
+                "Pressure Conversion Cube",
+                0.5
             ]
         ],
-        "outputs": []
+        "outputs": [
+            [
+                "Nuclear Pasta",
+                0.5
+            ]
+        ]
     },
     "Plutonium Pellet": {
         "inputs": [
             [
                 "Non-Fissile Uranium",
                 100.0
+            ],
+            [
+                "Uranium Waste",
+                25.0
             ]
         ],
-        "outputs": []
+        "outputs": [
+            [
+                "Plutonium Pellet",
+                30.0
+            ]
+        ]
     },
     "Cloudy Diamondsalternate": {
         "inputs": [
             [
                 "Coal",
                 240.0
+            ],
+            [
+                "Limestone",
+                480.0
             ]
         ],
-        "outputs": []
+        "outputs": [
+            [
+                "Diamonds",
+                20.0
+            ]
+        ]
     },
     "Dark Matter Crystallizationalternate": {
-        "inputs": [],
-        "outputs": []
+        "inputs": [
+            [
+                "Dark Matter Residue",
+                200.0
+            ]
+        ],
+        "outputs": [
+            [
+                "Dark Matter Crystal",
+                20.0
+            ]
+        ]
     },
     "Dark Matter Trapalternate": {
         "inputs": [
             [
                 "Time Crystal",
                 30.0
+            ],
+            [
+                "Dark Matter Residue",
+                150.0
             ]
         ],
-        "outputs": []
+        "outputs": [
+            [
+                "Dark Matter Crystal",
+                60.0
+            ]
+        ]
     },
     "Instant Plutonium Cellalternate": {
         "inputs": [
             [
                 "Non-Fissile Uranium",
                 75.0
+            ],
+            [
+                "Aluminum Casing",
+                10.0
             ]
         ],
-        "outputs": []
+        "outputs": [
+            [
+                "Encased Plutonium Cell",
+                10.0
+            ]
+        ]
     },
     "Oil-Based Diamondsalternate": {
-        "inputs": [],
-        "outputs": []
+        "inputs": [
+            [
+                "Crude Oil",
+                200.0
+            ]
+        ],
+        "outputs": [
+            [
+                "Diamonds",
+                40.0
+            ]
+        ]
     },
     "Petroleum Diamondsalternate": {
-        "inputs": [],
-        "outputs": []
+        "inputs": [
+            [
+                "Petroleum Coke",
+                720.0
+            ]
+        ],
+        "outputs": [
+            [
+                "Diamonds",
+                30.0
+            ]
+        ]
     },
     "Turbo Diamondsalternate": {
         "inputs": [
             [
                 "Coal",
                 600.0
+            ],
+            [
+                "Packaged Turbofuel",
+                40.0
             ]
         ],
-        "outputs": []
+        "outputs": [
+            [
+                "Diamonds",
+                60.0
+            ]
+        ]
     }
 }
