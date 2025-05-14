@@ -15,26 +15,22 @@ machines: Dict[str, str] = {
     "blender": "https://satisfactory.wiki.gg/wiki/Blender",
     "particle_accelerator": "https://satisfactory.wiki.gg/wiki/Particle_Accelerator",
     "quantum_encoder": "https://satisfactory.wiki.gg/wiki/Quantum_Encoder",
-    "converter": "https://satisfactory.wiki.gg/wiki/Converter"
+    "converter": "https://satisfactory.wiki.gg/wiki/Converter",
+    "smelter": "https://satisfactory.wiki.gg/wiki/Smelter"
 }
 
 def parse_ingredients(cell: Tag) -> List[Tuple[str, float]]:
     items: List[Tuple[str, float]] = []
     lines = list(cell.stripped_strings)
     i = 0
-    print(f"====\nLine parse : {lines}")
     while i < len(lines):
         line = lines[i]
-        print(f"Currently watched: {line}")
         match_qty = re.match(r"^([\d\.,]+)\s*/\s*min$", line, re.IGNORECASE)
-        print(f"Check du if: match_qty = {match_qty}")
         if match_qty:
             qty_str = match_qty.group(1)
             item_name = lines[i - 1]
             try:
                 qty = float(qty_str.replace(',', ''))
-                print(f"Item name found: {item_name}")
-                print(f"Quantity found: {qty}")
                 items.append((item_name.title(), qty))
             except ValueError:
                 pass
